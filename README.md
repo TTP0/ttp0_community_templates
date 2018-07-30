@@ -1,1 +1,1 @@
-# TTP0 Admin Resources
+# TTP0 COMMUNITY TEMPLATES
