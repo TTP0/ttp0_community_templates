@@ -5,4 +5,4 @@ The templates provided here are models that we have used to provide various comm
 * [Track Actor Templates](https://github.com/TTP0/ttp0_community_templates/tree/master/powerpoint/trackactors/)
 * [Organizational Templates](https://github.com/TTP0/ttp0_community_templates/tree/master/powerpoint/organizational)
   * [0Tier Threat Response Team](https://github.com/TTP0/ttp0_community_templates/blob/master/powerpoint/organizational/TTP0%20Threat%20Response%20Team.pptx)
-  * [Traditional SOC Construct](https://github.com/TTP0/ttp0_community_templates/blob/master/powerpoint/organizational/TTP0%20Traditional%20SOC%20Team.pptx)
+  * [3Tier SOC Construct](https://github.com/TTP0/ttp0_community_templates/blob/master/powerpoint/organizational/TTP0%20Traditional%20SOC%20Team.pptx)
