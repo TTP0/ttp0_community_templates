@@ -9,7 +9,7 @@ The templates provided here are models that we have used to provide various comm
 
 
 
-:::mermaid
+``` mermaid
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
@@ -17,4 +17,4 @@ timeline
          : Google
     2005 : Youtube
     2006 : Twitter
-:::
+```
